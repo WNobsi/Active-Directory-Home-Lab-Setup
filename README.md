@@ -30,17 +30,6 @@ This is **Part 1** of a larger series and focuses solely on preparing the lab en
 
 ---
 
-## Repository Structure
-
-```text
-.
-├── README.md
-├── screenshots/
-└── assets/
-```
-
----
-
 ## Contents
 
 - Lab Overview
