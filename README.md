@@ -1,4 +1,4 @@
-# Active Directory Home Lab - Part 1: Environment Setup
+# Active Directory Home Lab - Part 1: Lab Setup
 
 > **Project Series:** Building a Complete Active Directory Home Lab
 
@@ -23,10 +23,10 @@ This is **Part 1** of a larger series and focuses solely on preparing the lab en
 ## Project Roadmap
 
 - ✅ Part 1 – Active Directory Lab Setup *(Current Repository)*
-- ⏳ Part 2 – Joining Windows Clients to the Domain
-- ⏳ Part 3 – Active Directory Administration
-- ⏳ Part 4 – Group Policy
-- ⏳ Part 5 – Offensive Security Lab
+- ⏳ Part 2 – Attacking Vectors
+- ⏳ Part 3 – 
+- ⏳ Part 4 – 
+- ⏳ Part 5 – 
 
 ---
 
