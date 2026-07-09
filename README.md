@@ -27,7 +27,6 @@ This is **Part 1** of a larger series and focuses solely on preparing the lab en
 - ⏳ Part 3 – Active Directory Administration
 - ⏳ Part 4 – Group Policy
 - ⏳ Part 5 – Offensive Security Lab
-- ⏳ Part 6 – Detection & Defense
 
 ---
 
